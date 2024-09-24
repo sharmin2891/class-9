@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+/*Global Css*/
+
+body{
+    font-family: "DM Sans", sans-serif;
+    
+}
+
+p{
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 25px;
+    color: #999999;
+}
+
+h5{
+    color: #008ed6;
+    text-decoration: underline;
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+
+h2{
+    font-weight: 700;
+    font-size: 14px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/*header css start*/
+
+header{
+    width: 100%;
+    background: url(../img/banner.png) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.banner-section .cus-height{
+   height: 90vh;
+}
+
+.banner-section .banner-inner h1{
+    font-size: 50px;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.banner-section .banner-inner p{
+    width: 82%;
+    color: #fff;
+}
+
+.navbar .nav-item .nav-link{
+    color: white;
+}
+
+.navbar .nav-item{
+    margin-left: 16px;
+}
+
+.banner-section  .btns{
+    margin-top: 50px;
+    
+}
+
+.btns a{
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 4px;
+
+}
+
+
+.btns .btn-primary{
+    background: #008ed6;
+    border: 1px solid #008ed6;
+    margin-right: 7px;
+    transition: 0.7s;
+}
+
+
+.btns .btn-primary:hover{
+    background: transparent;
+    border: 1px solid white;
+    transition: 0.7s;
+}
+
+
+.btns .btn-info{
+    background: transparent;
+    border: 1px solid white;
+    transition: 0.7s;
+
+}
+
+.btns .btn-info:hover{
+    background:#008ed6;
+    border: 1px solid #008ed6;
+    transition: 0.7s;
+    color: #fff;
+}
+
+.feature-section{
+    width: 100%;
+    padding: 55px 0px;
+    border-bottom: 1px solid #d7d7d7;
+
+}
+
+.title{
+    margin-bottom: 50px;
+}
+
+.underline{
+    width: 100px;
+    height: 3px;
+    background:#578bd1;
+    margin: 12px auto 0px;
+}
+
+
+
+.feature-section .i-box i{
+    color: #578bd1;
+    font-size: 30px;
+    width: 80px;
+    height: 80px;
+    border: 1px solid #999999;
+    border-radius: 50%;
+    line-height: 80px;
+    margin-bottom: 20px;
+
+}
+
+.feature-section .i-box  h6{
+       font-size: 22px;
+
+}
+
+.feature-section .i-box  p{
+    padding: 0px 20px;
+
+}
+
+
+.beautiful{
+    width: 100%;
+    padding: 55px;
+
+}
+
+.beautiful .mobile{
+    text-align: right;
+   
+}
+
+.beautiful .content{
+    margin-top: 55px;
+}
+
+.beautiful .underline{
+    width: 100px;
+    height: 3px;
+    background:#578bd1;
+    margin: 22px  0px 22px;   
+}
+
+
+.beautiful p{
+    width: 88%;  
+}
+
+.beautiful ul li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.beautiful ul li i{
+    margin-right: 6px;
+   font-size: 18px;
+   color:#008ed6 ;
+}
+
+.super{
+    width: 100%;
+    padding: 55px 0px;
+    background: #f2f2f2;
+    
+}
+
+.super .underline{
+    width: 10%;
+    height: 3px;
+    background: #008ed6;
+    margin: 22px 0px 22px;
+    
+}
+.super .content2 p{
+    width: 84%;
+}
+.super .content2{
+    margin-top: 110px;
+}
+
+.slider-section{
+    width: 100%;
+    padding: 55px;
+    background: url(../img/test-1.png) center center no-repeat;
+    background-size: cover;
+}
+
+
+.slider-section .title h2{
+    color: white;
+}
+
+.owl-carousel .item p{
+    color: #fff;
+    font-style: italic;
+    width: 88%;
+    font-weight: 200;
+
+
+}
+
+
+.intro{
+    display: flex;
+    align-items: center;
+}
+
+
+.intro img{
+    width: 55px !important;
+    margin-right: 12px;
+}
+
+
+.intro .right{
+   color: #fff;
+   font-size: 14px;
+}
+
+.owl-theme .owl-dots{
+    margin-top: 120px !important;
+}
+
+.call-to-action{
+    width: 100%;
+    padding: 55px 0px;
+    background: black;
+
+}
+
+.call-to-action h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #fff;
+ }
+
+ 
+.call-to-action h2 span{   
+    font-weight: 400;
+    color: #a8a8a8;
+ }
+
+  
+.call-to-action .btns{   
+    text-align: right;
+ }
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
